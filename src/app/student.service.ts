@@ -14,7 +14,7 @@ export default class StudentService {
         dob:'14/02/1991', 
         class :'tenth', 
         subject:'Maths', 
-        teacher:'Prem Lata',
+        teacher:'Mrs.Prem Lata',
         address:'India'
       },
 
